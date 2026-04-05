@@ -5,7 +5,7 @@
 ---
 I specialize in working with real-world, imperfect data — cleaning it, structuring it, and transforming it into actionable business intelligence. My experience spans real estate, healthcare, and financial data, where I’ve built dashboards, optimized reporting systems, and improved decision-making processes.
 
-Tech Stack:
+**Tech Stack**
 - Python (Pandas, data wrangling, analysis)
 - R (statistical analysis, modeling)
 - SQL (data extraction & transformation)
