@@ -3,7 +3,7 @@
 - 📊 Data Analyst with **9+ years of experience** turning messy data into meaningful insights
 
 ---
-I specialize in working with real-world, imperfect data — cleaning it, structuring it, and transforming it into actionable business intelligence. My experience spans real estate, healthcare, and financial data, where I’ve built dashboards, optimized reporting systems, and improved decision-making processes.
+I specialize in working with real-world, imperfect data — cleaning it, structuring it, and transforming it into actionable business intelligence. My experience spans real estate, healthcare, and financial data, where I’ve built dashboards, optimized reporting systems, and improved decision-making processes. x
 
 **Tech Stack**
 - Python (Pandas, data wrangling, analysis)
