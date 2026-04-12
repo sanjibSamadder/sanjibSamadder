@@ -7,7 +7,7 @@ I specialize in working with real-world, imperfect data — cleaning it, structu
 
 **Tech Stack**
 - Python (Pandas, data wrangling, analysis)
-- R (statistical analysis, modeling)
+- R (statistical analysis, modeling)x
 - SQL (data extraction & transformation)
 - Excel (advanced formulas, Pivot Tables, automation)
 - Power BI & Looker (dashboarding & storytelling)
