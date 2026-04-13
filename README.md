@@ -17,7 +17,7 @@ Currently deepening my understanding of **statistics, machine learning, and data
 
 I enjoy solving complex data problems, especially the kind that tutorials don’t prepare us.
 
-**📬 Let's connect!** I'm open to discussions about data science, machine learning, and collaborative projects.
+**📬 Let's connect!** I'm open to discussions about data science, machine learning, and collaborative projects.x
 
 [![Email](https://img.shields.io/badge/Email-skilled.sanjib%40gmail.com-red?logo=gmail)](mailto:skilled.sanjib@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sanjibSamadder-181717?logo=github)](https://github.com/sanjibSamadder)
