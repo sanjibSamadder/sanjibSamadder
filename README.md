@@ -10,7 +10,7 @@ I specialize in working with real-world, imperfect data — cleaning it, structu
 - R (statistical analysis, modeling)
 - SQL (data extraction & transformation)
 - Excel (advanced formulas, Pivot Tables, automation)
-- Power BI & Looker (dashboarding & storytelling)x
+- Power BI & Looker (dashboarding & storytelling)
 ---
 
 Currently deepening my understanding of **statistics, machine learning, and data systems** through my Master’s, while continuing to build practical, business-focused solutions.
